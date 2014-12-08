@@ -1,18 +1,20 @@
 date.nk.js
 ==========
 
-Date formatting library
+### Date formatting library
 
 date.nk.js is a date formatting library which can convert the date time to string in a generic format.
 
 
-Syntax
+# Syntax
 
+```
 var date = new Date();
 console.log(date.format("MMM dd yyyy, hh:mm:ss:fff tt"));
+```
 
 
-Available formats
+# Available formats
 
 "d"
 "dd"
