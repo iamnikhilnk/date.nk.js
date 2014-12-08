@@ -30,5 +30,5 @@ Available formats
 "yy"
 "yyyy"
 "w"
-"ww"
 "www"
+"wwww"
