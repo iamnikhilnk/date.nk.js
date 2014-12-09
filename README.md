@@ -28,7 +28,6 @@ console.log(date.format("MMM dd yyyy, hh:mm:ss:fff tt"));
 * "MMMM"
 * "ss"
 * "tt"
-* "y"
 * "yy"
 * "yyyy"
 * "w"
